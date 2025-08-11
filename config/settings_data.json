@@ -7,9 +7,10 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "current": {
-    "logo_height": 60,
+    "logo": "shopify://shop_images/medic-logo.png",
+    "logo_height": 20,
     "type_header_font": "mono",
     "custom_heading_font_name": "Proxima Nova",
     "custom_heading_font_url": "https://cdn.shopify.com/s/files/1/0619/1638/1272/files/proximanova_regular.ttf?v=1751399284",
@@ -31,8 +32,6 @@
     "buttons_shadow_horizontal_offset": 0,
     "buttons_shadow_vertical_offset": 4,
     "buttons_shadow_blur": 5,
-    "button_text_color": "#838383",
-    "button_border_color": "#838383",
     "variant_pills_border_thickness": 1,
     "variant_pills_border_opacity": 55,
     "variant_pills_radius": 40,
@@ -132,6 +131,8 @@
     "show_cart_note": true,
     "cart_drawer_collection": "frontpage",
     "cart_color_scheme": "scheme-1",
+    "button_text_color": "#838383",
+    "button_border_color": "#838383",
     "sections": {
       "header": {
         "type": "header",
