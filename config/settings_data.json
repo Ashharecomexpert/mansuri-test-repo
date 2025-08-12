@@ -11,8 +11,8 @@
   "current": {
     "logo": "shopify://shop_images/medic-logo.png",
     "logo_height": 30,
-    "type_header_font": "mono",
-    "custom_heading_font_name": "Proxima Nova",
+    "type_header_font": "poppins_n4",
+    "custom_heading_font_name": "Poppins",
     "custom_heading_font_url": "https://cdn.shopify.com/s/files/1/0619/1638/1272/files/proximanova_regular.ttf?v=1751399284",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
